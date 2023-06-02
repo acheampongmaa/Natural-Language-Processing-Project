@@ -5,7 +5,7 @@ In this project, a huggingface pretrained model is finetuned and a gradio app of
 ## Summary
 | Code      | Name        | Published Article |  Deployed App | Deployed App Using Dockerfile
 |-----------|-------------|:-------------:|---------------:|-----------------:
-| LP5 |Natural Language Processing(Sentiment Analysis)|  [Article](https://medium.com/@qacheampong/natural-language-processing-finetuning-a-pretrained-model-for-sentiment-analysis-using-covid19-97f51f5a68f7/) |[App with Gradio](https://huggingface.co/spaces/Queensly/SentimentAnalysisApp/)| [App built with Dockerfile](https://huggingface.co/spaces/Queensly/DockerApp/) |
+| LP5 |Natural Language Processing(Sentiment Analysis)|  [Article](https://medium.com/@qacheampong/natural-language-processing-finetuning-a-pretrained-model-for-sentiment-analysis-using-covid19-97f51f5a68f7/)|[App with Gradio](https://huggingface.co/spaces/Queensly/SentimentAnalysisApp/)| [App built with Dockerfile](https://huggingface.co/spaces/Queensly/DockerApp/)|
 
 
 # Project : Natural Language Processing
